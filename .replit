@@ -1,2 +1,6 @@
 language = "python3"
+<<<<<<< HEAD
 run = "python sw_test/SWEA1226_maze.py"
+=======
+run = "python sw_test/SWEA5653_stemcell.py"
+>>>>>>> 06932c168e020710f7c68cf5cb4ee116772ab2ca

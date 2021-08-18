@@ -29,6 +29,11 @@ PARTIAL INPUT :
 #1 22
 #2 36
 #3 90
+<<<<<<< HEAD
+=======
+#4 164
+#5 712
+>>>>>>> 06932c168e020710f7c68cf5cb4ee116772ab2ca
 '''
 MAXK = 300 # 상수
 dx = [0,0,-1,1]
@@ -56,7 +61,11 @@ def solve(x, y):
         if check(nx,ny):
           board[nx][ny] = k
           temp.append((nx,ny))
+<<<<<<< HEAD
   if t == 2*k: # print("dead cell")
+=======
+  if t == 2*k:
+>>>>>>> 06932c168e020710f7c68cf5cb4ee116772ab2ca
     board[x][y] = -1
 
 for t in range( int(input()) ):

@@ -4,7 +4,11 @@
       {
         "id": "869c0099-699b-495e-b1e3-596bfea64c3c",
         "line": 1,
+<<<<<<< HEAD
         "version": 2334,
+=======
+        "version": 2182,
+>>>>>>> 06932c168e020710f7c68cf5cb4ee116772ab2ca
         "index": 0
       }
     ]
