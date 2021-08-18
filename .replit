@@ -1,2 +1,2 @@
 language = "python3"
-run = "python sw_test/game2048.py"
+run = "python sw_test/SWEA1226_maze.py"
